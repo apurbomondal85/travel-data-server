@@ -1,0 +1,500 @@
+[
+    {
+        "_id": "coxbazar",
+        "place": "Cox's Bazar",
+        "rooms": [
+            {
+                "_room_id": "coxbazar_001",
+                "name": "The Royal Suite",
+                "title": "Luxury Suite with Ocean View",
+                "price": 50,
+                "description": "Experience luxury and elegance in a spacious suite with a stunning ocean view.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Flat-screen TV"
+                ],
+                "rating": 4.5,
+                "totalRating": 50,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/royal-suite.jpg"
+            },
+            {
+                "_room_id": "coxbazar_002",
+                "name": "The Presidential Suite",
+                "title": "Presidential Suite with Beachfront View",
+                "price": 40,
+                "description": "Indulge in the ultimate beachfront experience in a presidential suite with unparalleled luxury and comfort.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Kitchenette"
+                ],
+                "rating": 4.0,
+                "totalRating": 30,
+                "person": 3,
+                "beds": 2,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/presidential-suite.jpg"
+            },
+            {
+                "_room_id": "coxbazar_003",
+                "name": "The Grand Villa",
+                "title": "Luxurious Villa with Private Pool",
+                "price": 50,
+                "description": "Relax in a luxurious villa with a private pool and breathtaking views of the Bay of Bengal.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Private pool"
+                ],
+                "rating": 4.8,
+                "totalRating": 70,
+                "person": 4,
+                "beds": 3,
+                "bedrooms": 2,
+                "baths": 2,
+                "roomImage": "https://example.com/grand-villa.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "srimangal",
+        "place": "Srimangal",
+        "rooms": [
+            {
+                "_room_id": "srimangal_001",
+                "name": "Tea Garden View Room",
+                "title": "Cozy Room with Tea Garden View",
+                "price": 30,
+                "description": "Enjoy a comfortable stay in a cozy room with a beautiful view of the tea garden.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Flat-screen TV"
+                ],
+                "rating": 4.2,
+                "totalRating": 20,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/tea-garden-view.jpg"
+            },
+            {
+                "_room_id": "srimangal_002",
+                "name": "Family Suite",
+                "title": "Spacious Suite for Family",
+                "price": 40,
+                "description": "Perfect for families, this spacious suite offers comfort and convenience.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Kitchenette"
+                ],
+                "rating": 4.5,
+                "totalRating": 25,
+                "person": 4,
+                "beds": 2,
+                "bedrooms": 2,
+                "baths": 1,
+                "roomImage": "https://example.com/family-suite.jpg"
+            },
+            {
+                "_room_id": "srimangal_003",
+                "name": "Luxury Bungalow",
+                "title": "Luxurious Bungalow with Garden View",
+                "price": 50,
+                "description": "Experience luxury and privacy in a spacious bungalow with a beautiful garden view.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Private pool"
+                ],
+                "rating": 4.8,
+                "totalRating": 40,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/luxury-bungalow.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "sundarbans",
+        "place": "Sundarbans",
+        "rooms": [
+            {
+                "_room_id": "sundarbans_001",
+                "name": "River View Cottage",
+                "title": "Charming Cottage with River View",
+                "price": 35,
+                "description": "Enjoy a serene stay in a charming cottage with a stunning view of the river.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Mini fridge"
+                ],
+                "rating": 4.4,
+                "totalRating": 18,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/river-view-cottage.jpg"
+            },
+            {
+                "_room_id": "sundarbans_002",
+                "name": "Tree House",
+                "title": "Cozy Tree House in the Jungle",
+                "price": 45,
+                "description": "Experience the thrill of living in a cozy tree house in the heart of the jungle.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Balcony"
+                ],
+                "rating": 4.6,
+                "totalRating": 22,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/tree-house.jpg"
+            },
+            {
+                "_room_id": "sundarbans_003",
+                "name": "Beachfront Villa",
+                "title": "Luxurious Villa with Beachfront View",
+                "price": 55,
+                "description": "Experience luxury and relaxation in a spacious villa with a breathtaking view of the beach.",
+                "amenities": [
+                    "Air conditioning",
+                    "Free Wi-Fi",
+                    "Private pool"
+                ],
+                "rating": 4.9,
+                "totalRating": 38,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/beachfront-villa.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "sajek-valley",
+        "place": "Sajek Valley",
+        "rooms": [
+            {
+                "_room_id": "sajek-valley_001",
+                "name": "Hillside Cottage",
+                "title": "Cozy Cottage with Hillside View",
+                "price": 30,
+                "description": "Escape to a cozy cottage nestled in the hills with a stunning view of the valley.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Balcony"
+                ],
+                "rating": 4.2,
+                "totalRating": 12,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/hillside-cottage.jpg"
+            },
+            {
+                "_room_id": "sajek-valley_002",
+                "name": "Riverside Chalet",
+                "title": "Charming Chalet with Riverside View",
+                "price": 35,
+                "description": "Experience the tranquility of a charming chalet with a stunning view of the river.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Mini fridge"
+                ],
+                "rating": 4.5,
+                "totalRating": 16,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/riverside-chalet.jpg"
+            },
+            {
+                "_room_id": "sajek-valley_003",
+                "name": "Mountain View Villa",
+                "title": "Luxurious Villa with Mountain View",
+                "price": 50,
+                "description": "Indulge in luxury and relaxation in a spacious villa with a breathtaking view of the mountains.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Air conditioning",
+                    "Private pool"
+                ],
+                "rating": 4.8,
+                "totalRating": 28,
+                "person": 4,
+                "beds": 2,
+                "bedrooms": 2,
+                "baths": 2,
+                "roomImage": "https://example.com/mountain-view-villa.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "jaflong",
+        "place": "Jaflong",
+        "rooms": [
+            {
+                "_room_id": "jaflong_001",
+                "name": "Riverside Cottage",
+                "title": "Peaceful Cottage with Riverside View",
+                "price": 40,
+                "description": "Enjoy the tranquility of a peaceful cottage with a stunning view of the river.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Balcony"
+                ],
+                "rating": 4.4,
+                "totalRating": 10,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/riverside-cottage.jpg"
+            },
+            {
+                "_room_id": "jaflong_002",
+                "name": "Hillside Bungalow",
+                "title": "Cosy Bungalow with Hillside View",
+                "price": 45,
+                "description": "Experience the warmth of a cosy bungalow nestled in the hills with a stunning view of the valley.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Mini fridge"
+                ],
+                "rating": 4.6,
+                "totalRating": 14,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/hillside-bungalow.jpg"
+            },
+            {
+                "_room_id": "jaflong_003",
+                "name": "Mountain View Villa",
+                "title": "Luxurious Villa with Mountain View",
+                "price": 60,
+                "description": "Indulge in luxury and relaxation in a spacious villa with a breathtaking view of the mountains.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Air conditioning",
+                    "Private pool"
+                ],
+                "rating": 4.9,
+                "totalRating": 32,
+                "person": 4,
+                "beds": 2,
+                "bedrooms": 2,
+                "baths": 2,
+                "roomImage": "https://example.com/mountain-view-villa.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "kuakata",
+        "place": "Kuakata Sea Beach",
+        "rooms": [
+            {
+                "_room_id": "kuakata_001",
+                "name": "Beachfront Chalet",
+                "title": "Elegant Chalet with a Stunning Beach View",
+                "price": 50,
+                "description": "Experience elegance and tranquility in a beautiful beachfront chalet with a stunning view of the sea.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Balcony"
+                ],
+                "rating": 4.7,
+                "totalRating": 20,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/beachfront-chalet.jpg"
+            },
+            {
+                "_room_id": "kuakata_002",
+                "name": "Tropical Villa",
+                "title": "Charming Villa with a Lush Garden",
+                "price": 40,
+                "description": "Escape to a charming villa surrounded by lush tropical gardens, just a short walk from the beach.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Air conditioning"
+                ],
+                "rating": 4.5,
+                "totalRating": 18,
+                "person": 3,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/tropical-villa.jpg"
+            },
+            {
+                "_room_id": "kuakata_003",
+                "name": "Seaside Bungalow",
+                "title": "Cozy Bungalow with a View of the Sea",
+                "price": 35,
+                "description": "Enjoy the coziness of a seaside bungalow with a view of the sea, just steps away from the beach.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Mini fridge"
+                ],
+                "rating": 4.3,
+                "totalRating": 14,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/seaside-bungalow.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "patenga",
+        "place": "Patenga Sea Beach",
+        "rooms": [
+            {
+                "_room_id": "patenga_001",
+                "name": "Oceanfront Suite",
+                "title": "Luxurious Suite with Panoramic Ocean View",
+                "price": 50,
+                "description": "Experience luxury in an oceanfront suite with a panoramic view of the sea, complete with a private balcony.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Ocean view balcony",
+                    "Mini fridge",
+                    "Jacuzzi tub"
+                ],
+                "rating": 4.8,
+                "totalRating": 30,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/oceanfront-suite.jpg"
+            },
+            {
+                "_room_id": "patenga_002",
+                "name": "Beachfront Bungalow",
+                "title": "Cozy Bungalow with Beach Access",
+                "price": 40,
+                "description": "Experience the ultimate beachfront vacation in a cozy bungalow with direct access to the sandy beach.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Beach access",
+                    "Air conditioning"
+                ],
+                "rating": 4.5,
+                "totalRating": 25,
+                "person": 3,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/beachfront-bungalow.jpg"
+            },
+            {
+                "_room_id": "patenga_003",
+                "name": "Seaside Cottage",
+                "title": "Charming Cottage with a View of the Sea",
+                "price": 35,
+                "description": "Escape to a charming seaside cottage with a view of the sea, just steps away from the beach.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Mini fridge"
+                ],
+                "rating": 4.2,
+                "totalRating": 20,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/seaside-cottage.jpg"
+            }
+        ]
+    },
+    {
+        "_id": "rangamati",
+        "place": "Rangamati",
+        "rooms": [
+            {
+                "_room_id": "rangamati_001",
+                "name": "Lake View Suite",
+                "title": "Spacious Suite with a View of the Lake",
+                "price": 45,
+                "description": "Relax in a spacious suite with a stunning view of the lake, complete with a private balcony.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Lake view balcony",
+                    "Mini fridge",
+                    "Jacuzzi tub"
+                ],
+                "rating": 4.7,
+                "totalRating": 35,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/lake-view-suite.jpg"
+            },
+            {
+                "_room_id": "rangamati_002",
+                "name": "Mountain View Room",
+                "title": "Cozy Room with a View of the Mountains",
+                "price": 30,
+                "description": "Enjoy a cozy room with a view of the mountains, perfect for a relaxing retreat.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "Mountain view",
+                    "Air conditioning"
+                ],
+                "rating": 4.3,
+                "totalRating": 22,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/mountain-view-room.jpg"
+            },
+            {
+                "_room_id": "rangamati_003",
+                "name": "Riverside Bungalow",
+                "title": "Charming Bungalow with a View of the River",
+                "price": 40,
+                "description": "Experience the serenity of a riverside bungalow with a stunning view of the river, just steps away from the water.",
+                "amenities": [
+                    "Free Wi-Fi",
+                    "River view",
+                    "Mini fridge"
+                ],
+                "rating": 4.5,
+                "totalRating": 28,
+                "person": 2,
+                "beds": 1,
+                "bedrooms": 1,
+                "baths": 1,
+                "roomImage": "https://example.com/riverside-bungalow.jpg"
+            }
+        ]
+    }
+]

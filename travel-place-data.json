@@ -1,0 +1,50 @@
+[
+    {
+        "id": "destcxb01",
+        "place": "coxbazar",
+        "name": "Cox’s Bazar",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEbndupWFIu2h0TDMyYStrb04VKMyAKNkiw&usqp=CAU"
+    },
+    {
+        "id": "destsrm02",
+        "place": "srimangal",
+        "name": "Srimangal",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNVS0xZJyhKedemoGtm4w8GKGtgmf8hSsk0A&usqp=CAU"
+    },
+    {
+        "id": "destsdb03",
+        "place": "sundarbans",
+        "name": "Sundarbans",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZVPeXL-TcPQSOmrF_PSXW4Jx9GEbXp11Zaw&usqp=CAU"
+    },
+    {
+        "id": "destrgt04",
+        "place": "rangamati",
+        "name": "Rangamati",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYRhNzZ_K2l2kif8h8amu8mo62MxchhVC8A&usqp=CAU"
+    },
+    {
+        "id": "destsjk05",
+        "place": "sajek-valley",
+        "name": "Sajek Valley",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvLTLLbukFXxC2jfUhhV4PETXQXAHXWi9JQ&usqp=CAU"
+    },
+    {
+        "id": "destjfl06",
+        "place": "jaflong",
+        "name": "Jaflong",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOiD3UI5bi40_D626coWyXI-y5PsDnGgFyA&usqp=CAU"
+    },
+    {
+        "id": "destkua07",
+        "place": "kuakata",
+        "name": "Kuakata Sea Beach",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiDk975hOhOV35kn0BgXBcIpBMVwvABh-Rg&usqp=CAU"
+    },
+    {
+        "id": "destptg08",
+        "place": "patenga",
+        "name": "Patenga Sea Beach",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_5EE-hquV9mZvXjOoVTpb-QQGENAidypjQ&usqp=CAU"
+    }
+]
